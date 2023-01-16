@@ -81,7 +81,6 @@ font-size: 60%;
     display: inline-block;
     width: 20%;
     text-align: center;
-    padding-bottom: 5%;
 }
 
 
@@ -106,5 +105,29 @@ background-color: cyan;
     padding-bottom: 5%;
 }
 /*fine spazio main*/
+
+/*Inizio footer*/
+
+.ftitle{
+    color: grey;
+}
+
+.footer-img1 {
+    background-image: url(../img/graph.jpg);
+    margin: auto;
+    height: 200px;
+    background-repeat: no-repeat;
+    color: white;
+    margin-bottom: 2px;
+}
+
+.footer-img2 {
+    background-image: url(../img/monitor.jpg);
+    margin: auto;
+    height: 200px;
+    background-repeat: no-repeat;
+    color: white;
+
+}
 
 
