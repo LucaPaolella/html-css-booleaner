@@ -37,4 +37,9 @@ font-size: 60%;
 .descrizione-foto {
   display: block;  
 }
+
+.testo {
+    padding-top: 5%;
+    font-size: 14px;
+}
 /*fine spazio main*/
