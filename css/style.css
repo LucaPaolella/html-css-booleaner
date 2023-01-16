@@ -1,0 +1,20 @@
+/*spazio header*/
+.spazio-iniziale {
+background-image: url(../img/pattern.png);
+background-color: cornflowerblue;
+margin-left:none;
+}
+.logo {
+max-width: 10%;
+padding-top: 3%;
+}
+/*fine spazio header*/
+
+/*spazio main*/
+main {
+background-color: white;
+padding-left: none;
+}.data{
+display: block;
+}
+/*fine spazio main*/
