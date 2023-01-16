@@ -30,4 +30,11 @@ display: block;
 font-size: 60%;
 }
 
+.foto {
+    max-width: 40%;
+}
+
+.descrizione-foto {
+  display: block;  
+}
 /*fine spazio main*/
