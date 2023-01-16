@@ -1,6 +1,6 @@
 body {
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 /*spazio header*/
 .spazio-iniziale {
@@ -28,11 +28,7 @@ padding-left: none;
 .data{
 display: block;
 font-size: 60%;
-}
-
-.foto {
-    max-width: 40%;
-}
+} 
 
 .descrizione-foto {
   display: block;  
@@ -41,5 +37,9 @@ font-size: 60%;
 .testo {
     padding-top: 5%;
     font-size: 14px;
+}
+
+li {
+    margin-left: none;
 }
 /*fine spazio main*/
