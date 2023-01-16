@@ -39,7 +39,67 @@ font-size: 60%;
     font-size: 14px;
 }
 
-li {
-    margin-left: none;
+.lista {
+    padding: 0px;
+}
+
+.tb{
+    margin: auto;
+}
+
+.titoli {
+    background: cornflowerblue;
+    color: white;
+    
+}
+
+
+.riga1titolo{
+    display: inline-block;
+    width: 20%;
+}
+
+.riga2titolo{
+    display: inline-block;
+    width: 20%;
+}
+
+.riga3titolo{
+    display: inline-block;
+    width: 20%;
+}
+
+.riga1{
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+
+    
+}
+
+.riga2{
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+
+.riga3{
+    display: inline-block;
+    width: 40%;
+    text-align: center;
+    padding: 5%;
+
+}
+
+.tb1 {
+background-color: cyan;
+}
+
+.riga-corta{
+    margin: 50%;
 }
 /*fine spazio main*/
+
+
