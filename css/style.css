@@ -1,11 +1,16 @@
+body {
+    margin-left: 30%;
+    margin-right: 30%;
+}
 /*spazio header*/
 .spazio-iniziale {
 background-image: url(../img/pattern.png);
 background-color: cornflowerblue;
 margin-left:none;
 }
+
 .logo {
-max-width: 10%;
+max-width: 20%;
 padding-top: 3%;
 }
 /*fine spazio header*/
@@ -14,7 +19,15 @@ padding-top: 3%;
 main {
 background-color: white;
 padding-left: none;
-}.data{
-display: block;
 }
+
+#the-booleaner{
+    color: cyan;
+}
+
+.data{
+display: block;
+font-size: 60%;
+}
+
 /*fine spazio main*/
